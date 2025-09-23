@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 
-winetricks cjkfonts
-winetricks wmp9 quartz devenum
+winetricks cjkfonts wmp9 quartz devenum
